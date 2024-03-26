@@ -1,0 +1,7 @@
+#' This is data1
+#'
+#' @return The data frame
+#' @examples
+#' as_tibble()
+
+data1 <- readRDS("C:/TestGitHub/TestDaesungPackage/data/data1.Rda")
