@@ -1,0 +1,27 @@
+{
+    "id": "0BA289DD",
+    "path": "C:/TestGitHub/TestDaesungPackage/R/Hi.R",
+    "project_path": "R/Hi.R",
+    "type": "r_source",
+    "hash": "1950340679",
+    "contents": "",
+    "dirty": false,
+    "created": 1711483158191.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,0",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711483245,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711483245641,
+    "read_only": false,
+    "read_only_alternatives": []
+}
