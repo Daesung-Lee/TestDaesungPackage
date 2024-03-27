@@ -1,6 +1,0 @@
-library(devtools)
-devtools::install_github("Daesung-Lee/TestDaesungPackage")
-TestDaesungPackage::hello()
-TestDaesungPackage::sem()
-remove.packages("TestDaesungpackage")
-TestDaesungPackage::data2
